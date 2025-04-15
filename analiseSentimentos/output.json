@@ -1,0 +1,202 @@
+[
+    {
+        "frase": "A espera na entrada foi curta, o que me alegrou pois foi possível entrar rápido e o show superou todas as minhas expectativas com uma performance impecável e emocionante.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Fiquei realmente impressionado com a gentileza dos funcionários e a atenção aos detalhes durante toda a minha estadia no hotel.",
+        "sentimento": "Negativo",
+        "scores": {
+            "neg": 0.128,
+            "neu": 0.872,
+            "pos": 0.0,
+            "compound": -0.296
+        }
+    },
+    {
+        "frase": "A leitura desse livro foi uma experiência transformadora, cada capítulo me envolvia mais profundamente na narrativa.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Recebi meu pedido antes do prazo estimado, muito bem embalado e com um bilhete simpático escrito à mão, adorei o cuidado!",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "A palestra foi extremamente inspiradora, com argumentos sólidos e uma abordagem envolvente que me deixou refletindo por dias.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Gostei muito do aplicativo, a interface é intuitiva, o desempenho é excelente e resolveu exatamente o problema que eu tinha.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Esse restaurante me surpreendeu não só pelo sabor incrível dos pratos, mas também pelo ambiente acolhedor e tranquilo.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Tive uma ótima experiência na entrevista, a equipe foi receptiva, me senti respeitado e confortável para mostrar meu potencial.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Mesmo com as dificuldades no início do projeto, o resultado final foi espetacular e todos os envolvidos estão de parabéns.",
+        "sentimento": "Negativo",
+        "scores": {
+            "neg": 0.115,
+            "neu": 0.885,
+            "pos": 0.0,
+            "compound": -0.296
+        }
+    },
+    {
+        "frase": "A série teve um desenvolvimento de personagens fantástico, e o final foi emocionante e satisfatório, totalmente recomendado.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Comprei esse produto com altas expectativas, mas ele veio com defeito e o suporte técnico não resolveu meu problema até hoje.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "O atendimento no consultório foi frio e impessoal, me senti apenas mais um número e não um paciente que precisava de ajuda.",
+        "sentimento": "Negativo",
+        "scores": {
+            "neg": 0.109,
+            "neu": 0.891,
+            "pos": 0.0,
+            "compound": -0.296
+        }
+    },
+    {
+        "frase": "A experiência no voo foi horrível, o avião estava sujo, o ar-condicionado não funcionava e a tripulação parecia despreparada.",
+        "sentimento": "Negativo",
+        "scores": {
+            "neg": 0.145,
+            "neu": 0.855,
+            "pos": 0.0,
+            "compound": -0.296
+        }
+    },
+    {
+        "frase": "A atualização do aplicativo tornou tudo mais lento e confuso, claramente foi uma decisão mal planejada pelos desenvolvedores.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Infelizmente, o filme é arrastado, com atuações fracas e um enredo sem coerência; saí do cinema decepcionado.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Tentei contato com a empresa diversas vezes, mas não obtive nenhuma resposta, um total descaso com o cliente.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "O curso parecia promissor, mas o conteúdo era superficial e o instrutor não conseguia prender a atenção da turma.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "Tive muitos problemas com a entrega, que atrasou semanas e ainda chegou incompleta, foi extremamente frustrante.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "O ambiente era barulhento, mal iluminado e os funcionários pareciam mais preocupados com o celular do que com os clientes.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "frase": "A interface do site é confusa, cheia de bugs, e me fez perder tempo tentando fazer uma compra simples.",
+        "sentimento": "Neutro",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    }
+]
