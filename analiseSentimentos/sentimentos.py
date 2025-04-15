@@ -25,7 +25,7 @@ def analyze_sentiment(text):
 if __name__ == "__main__":
 
     # Lê o conteúdo do arquivo sentencas.txt
-    with open('sentencas.txt', 'r', encoding='utf-8') as file:
+    with open('input.txt', 'r', encoding='utf-8') as file:
         sentences = file.readlines()
     
     # Remove espaços em branco e aspas das frases
